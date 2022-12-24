@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-<h3 align="center">I'm Shubham Dhiman, a 23-year old technology enthusiast who does web development, DSA and ML development.</h3>
+<h3 align="center">I'm Shubham Dhiman, a 24-year old technology enthusiast who solves Machine Learning, Computer vision based problems using Deep Learning Techniques.</h3>
 
  ## 
 <h3>
