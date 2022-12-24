@@ -9,8 +9,6 @@
 
  ## Preferred Languages
 
-<br>
-
 <p>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
   <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
